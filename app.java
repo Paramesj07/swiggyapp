@@ -72,7 +72,7 @@ class Swiggy
                     }
                 }//MB
                 case 2->{
-                    double price=280;
+                    double price = 280;
                 }//CB
                 case 3->{
 
